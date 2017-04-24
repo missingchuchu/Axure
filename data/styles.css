@@ -9,6 +9,10 @@
 }
 .box_1 {
 }
+.image {
+}
+.button {
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -52,4 +56,22 @@
 }
 .paragraph {
   text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+.menu_item {
+}
+.rounddroplist {
+  color:#000000;
+  text-align:left;
+}
+.icon {
 }
